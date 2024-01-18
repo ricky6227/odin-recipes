@@ -1,0 +1,17 @@
+.title, 
+.subheader {
+    font-family: Arial, Helvetica, sans-serif;;
+}
+
+.title {
+    background-color:rgb(3, 0, 86);
+    color: aliceblue;
+}
+
+.subheader {
+    background-color: rgb(255, 155, 88);
+}
+
+.recipe {
+    color: dodgerblue;
+}
